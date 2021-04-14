@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: 'NeueHaas';
+  src: url('fonts/NeueHaasGroteskBold.ttf')  format('truetype'); /* Safari, Android, iOS */
+
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'NeueHaas';
+  src: url('fonts/NeueHaasGroteskMedium.ttf')  format('truetype'); /* Safari, Android, iOS */
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'NeueHaas';
+   src: url('fonts/NeueHaasGroteskRegular.ttf')  format('truetype'); /* Safari, Android, iOS */
+   font-weight: normal;
+}
